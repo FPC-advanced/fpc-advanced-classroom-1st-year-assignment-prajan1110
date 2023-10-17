@@ -1,28 +1,14 @@
 #include <stdio.h>
-int input(char *a,char *b)
-{
-    printf("Enter the first string:");
-    scanf("%s",a);
-    printf("Enter the second string:");
-    scanf("%s",b);
-}
-int compare(char *a,char *b)
-{
-    int i;
-    if(a[i]==b[i])
-    {
-        printf("The strings are same.");
-    }
-    else
-    if(a[i]!=b[i])
-    {
-        printf("The strimgs are different.");
-    }
-}
+void input_two_strings(char *string1, char *string2);
+int stringcompare(char *string1, char *string2);
+void output(char *string1, char *string2, int result);
+
 int main()
 {
-    char a[100],b[100];
-    input(a,b);
-    compare(a,b);
-    return 0;
+    int result;
+    char string1[100],string2[100];
+    input_two_strings(string1,string2);
+    stringcompare(string1,string2);
+    output(string1,string2,result);
+    
 }
