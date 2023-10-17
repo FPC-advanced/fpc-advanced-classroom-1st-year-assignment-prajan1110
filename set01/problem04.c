@@ -7,7 +7,7 @@ int main()
 {
     int *a,*b,*sum;
     input(a,b);
-    add(a,b,sum);
+    add(a,b,&sum);
     output(a,b,sum);
     return 0;
 }
