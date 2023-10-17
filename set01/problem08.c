@@ -25,7 +25,7 @@ void input_array(int n, int a[n])
 {
     int i;
     printf("Input values into the array:\n");
-    for (i=0;i<=n;i++)
+    for (i=0;i<n;i++)
     {
         scanf("%d",&a[i]);
     }
