@@ -1,0 +1,49 @@
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:9:11: warning: passing argument 1 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:2:6: note: expected 'float *' but argument is of type 'float **'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:9:17: warning: passing argument 2 of 'input' from incompatible pointer type [-Wincompatible-pointer-types]
+     input(&base,&height);
+                 ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:2:6: note: expected 'float *' but argument is of type 'float **'
+ void input(float *base, float *height);
+      ^~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:10:15: warning: passing argument 1 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(&base,&height,&area);
+               ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'float **'
+ void find_area(float *base , float *height, float *area);
+      ^~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:10:21: warning: passing argument 2 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(&base,&height,&area);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'float **'
+ void find_area(float *base , float *height, float *area);
+      ^~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:10:29: warning: passing argument 3 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+     find_area(&base,&height,&area);
+                             ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:3:6: note: expected 'float *' but argument is of type 'float **'
+ void find_area(float *base , float *height, float *area);
+      ^~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&base,&height,&area);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'float **'
+ void output(float *base, float *height, float *area);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:11:18: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&base,&height,&area);
+                  ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'float **'
+ void output(float *base, float *height, float *area);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:11:26: warning: passing argument 3 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&base,&height,&area);
+                          ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'float **'
+ void output(float *base, float *height, float *area);
+      ^~~~~~
