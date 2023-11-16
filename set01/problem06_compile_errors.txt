@@ -26,3 +26,18 @@ c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
  void output(int a, int b, int c, int largest);
       ^~~~~~
 Compilation finished at 11/5/2023, 11:30:21 AM
+Compilation started at 11/16/2023, 3:47:38 PM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem06.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem06.c:10:19: warning: passing argument 4 of 'compare' from incompatible pointer type [-Wincompatible-pointer-types]
+     compare(a,b,c,&largest);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem06.c:3:6: note: expected 'int *' but argument is of type 'int **'
+ void compare(int a, int b, int c, int *largest);
+      ^~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem06.c:11:18: warning: passing argument 4 of 'output' makes integer from pointer without a cast [-Wint-conversion]
+     output(a,b,c,largest);
+                  ^~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem06.c:4:6: note: expected 'int' but argument is of type 'int *'
+ void output(int a, int b, int c, int largest);
+      ^~~~~~
+Compilation finished at 11/16/2023, 3:47:38 PM
