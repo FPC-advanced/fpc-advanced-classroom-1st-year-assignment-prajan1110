@@ -26,3 +26,18 @@ c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
  void output(int a, int b, int sum);
       ^~~~~~
 Compilation finished at 11/5/2023, 11:29:38 AM
+Compilation started at 11/16/2023, 3:46:17 PM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem04.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem04.c:10:13: warning: passing argument 3 of 'add' from incompatible pointer type [-Wincompatible-pointer-types]
+     add(a,b,&sum);
+             ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem04.c:3:6: note: expected 'int *' but argument is of type 'int **'
+ void add(int a, int b, int *sum);
+      ^~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem04.c:11:16: warning: passing argument 3 of 'output' makes integer from pointer without a cast [-Wint-conversion]
+     output(a,b,sum);
+                ^~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem04.c:4:6: note: expected 'int' but argument is of type 'int *'
+ void output(int a, int b, int sum);
+      ^~~~~~
+Compilation finished at 11/16/2023, 3:46:17 PM
