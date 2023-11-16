@@ -31,3 +31,4 @@ void output(int n, int sum);
     printf("The sum is %d\n",sum);
  }
 
+-
