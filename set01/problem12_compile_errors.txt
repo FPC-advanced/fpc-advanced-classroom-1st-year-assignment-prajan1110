@@ -1,0 +1,58 @@
+Compilation started at 11/6/2023, 9:43:15 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c: In function 'get_n':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c:32:2: warning: implicit declaration of function 'sacnf' [-Wimplicit-function-declaration]
+  sacnf("%d",&n);
+  ^~~~~
+C:\Users\kpraj\AppData\Local\Temp\ccGB3aW0.o: In function `get_n':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:32: undefined reference to `sacnf'
+C:\Users\kpraj\AppData\Local\Temp\ccGB3aW0.o: In function `input_complex':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:39: undefined reference to `sacnf'
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:41: undefined reference to `sacnf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/6/2023, 9:43:16 AM
+Compilation started at 11/6/2023, 9:43:25 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c: In function 'get_n':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c:32:2: warning: implicit declaration of function 'sacnf' [-Wimplicit-function-declaration]
+  sacnf("%d",&n);
+  ^~~~~
+C:\Users\kpraj\AppData\Local\Temp\ccw05BbW.o: In function `get_n':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:32: undefined reference to `sacnf'
+C:\Users\kpraj\AppData\Local\Temp\ccw05BbW.o: In function `input_complex':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:39: undefined reference to `sacnf'
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:41: undefined reference to `sacnf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/6/2023, 9:43:25 AM
+Compilation started at 11/6/2023, 9:44:35 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c: In function 'get_n':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c:32:2: warning: implicit declaration of function 'sacnf' [-Wimplicit-function-declaration]
+  sacnf("%d",&n);
+  ^~~~~
+C:\Users\kpraj\AppData\Local\Temp\ccW9kubE.o: In function `get_n':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:32: undefined reference to `sacnf'
+C:\Users\kpraj\AppData\Local\Temp\ccW9kubE.o: In function `input_complex':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:39: undefined reference to `sacnf'
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:41: undefined reference to `sacnf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/6/2023, 9:44:35 AM
+Compilation started at 11/6/2023, 9:45:12 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c: In function 'get_n':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem12.c:32:2: warning: implicit declaration of function 'sacnf' [-Wimplicit-function-declaration]
+  sacnf("%d",&n);
+  ^~~~~
+C:\Users\kpraj\AppData\Local\Temp\cckzWK11.o: In function `get_n':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:32: undefined reference to `sacnf'
+C:\Users\kpraj\AppData\Local\Temp\cckzWK11.o: In function `input_complex':
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:39: undefined reference to `sacnf'
+c:/Users/kpraj/github-classroom/FPC-advanced/fpc-advanced-classroom-1st-year-assignment-prajan1110/set01/problem12.c:41: undefined reference to `sacnf'
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/6/2023, 9:45:12 AM
+Compilation started at 11/6/2023, 9:50:17 AM
+Compilation finished at 11/6/2023, 9:50:17 AM
+Compilation started at 11/6/2023, 9:52:06 AM
+Compilation finished at 11/6/2023, 9:52:06 AM
+Compilation started at 11/7/2023, 11:43:03 AM
+Compilation finished at 11/7/2023, 11:43:03 AM
+Compilation started at 11/7/2023, 11:46:10 AM
+Compilation finished at 11/7/2023, 11:46:11 AM
+Compilation started at 11/7/2023, 11:46:48 AM
+Compilation finished at 11/7/2023, 11:46:49 AM

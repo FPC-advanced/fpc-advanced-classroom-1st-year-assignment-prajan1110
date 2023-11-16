@@ -1,0 +1,1365 @@
+Compilation started at 10/31/2023, 11:37:43 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 10/31/2023, 11:37:44 AM
+Compilation started at 10/31/2023, 11:38:20 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 10/31/2023, 11:38:21 AM
+Compilation started at 10/31/2023, 11:38:32 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 10/31/2023, 11:38:32 AM
+Compilation started at 11/5/2023, 11:32:47 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/5/2023, 11:32:48 AM
+Compilation started at 11/5/2023, 11:33:07 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/5/2023, 11:33:08 AM
+Compilation started at 11/6/2023, 7:59:47 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 7:59:48 AM
+Compilation started at 11/6/2023, 8:05:36 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:05:37 AM
+Compilation started at 11/6/2023, 8:09:30 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:09:31 AM
+Compilation started at 11/6/2023, 8:09:46 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:09:47 AM
+Compilation started at 11/6/2023, 8:10:38 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:10:38 AM
+Compilation started at 11/6/2023, 8:11:50 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:11:50 AM
+Compilation started at 11/6/2023, 8:21:18 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:19: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                   ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:28: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     stringcompare(&string1,&string2);
+                            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:21:19 AM
+Compilation started at 11/6/2023, 8:23:21 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:23:22 AM
+Compilation started at 11/6/2023, 8:23:38 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:23:39 AM
+Compilation started at 11/6/2023, 8:24:08 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:24:09 AM
+Compilation started at 11/6/2023, 8:25:34 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:25:35 AM
+Compilation started at 11/6/2023, 8:25:48 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:25:48 AM
+Compilation started at 11/6/2023, 8:27:05 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:27:06 AM
+Compilation started at 11/6/2023, 8:27:17 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:27:18 AM
+Compilation started at 11/6/2023, 8:27:46 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:27:46 AM
+Compilation started at 11/6/2023, 8:32:01 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:32:01 AM
+Compilation started at 11/6/2023, 8:32:28 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:32:29 AM
+Compilation started at 11/6/2023, 8:33:12 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:33:13 AM
+Compilation started at 11/6/2023, 8:34:24 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:34:25 AM
+Compilation started at 11/6/2023, 8:35:01 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:35:01 AM
+Compilation started at 11/6/2023, 8:35:24 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/6/2023, 8:35:24 AM
+Compilation started at 11/7/2023, 11:07:09 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:07:09 AM
+Compilation started at 11/7/2023, 11:28:31 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:28:31 AM
+Compilation started at 11/7/2023, 11:28:50 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:9:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:30: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                              ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:39: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+     int result=stringcompare(&string1,&string2);
+                                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:28:51 AM
+Compilation started at 11/7/2023, 11:29:38 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:29:39 AM
+Compilation started at 11/7/2023, 11:30:09 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:30:10 AM
+Compilation started at 11/7/2023, 11:30:22 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:30:22 AM
+Compilation started at 11/7/2023, 11:32:26 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:32:27 AM
+Compilation started at 11/7/2023, 11:32:39 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/7/2023, 11:32:40 AM
+Compilation started at 11/16/2023, 11:35:33 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:23: warning: passing argument 1 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                       ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:10:32: warning: passing argument 2 of 'input_two_strings' from incompatible pointer type [-Wincompatible-pointer-types]
+     input_two_strings(&string1,&string2);
+                                ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:2:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void input_two_strings(char *string1, char *string2);
+      ^~~~~~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:27: warning: passing argument 1 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                           ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:11:36: warning: passing argument 2 of 'stringcompare' from incompatible pointer type [-Wincompatible-pointer-types]
+      result=stringcompare(&string1,&string2);
+                                    ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:3:5: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ int stringcompare(char *string1, char *string2);
+     ^~~~~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:12: warning: passing argument 1 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:12:21: warning: passing argument 2 of 'output' from incompatible pointer type [-Wincompatible-pointer-types]
+     output(&string1,&string2,result);
+                     ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem10.c:4:6: note: expected 'char *' but argument is of type 'char * (*)[100]'
+ void output(char *string1, char *string2, int result);
+      ^~~~~~
+Compilation finished at 11/16/2023, 11:35:34 AM

@@ -1,0 +1,134 @@
+Compilation started at 10/30/2023, 10:33:36 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:33:36 AM
+Compilation started at 10/30/2023, 10:33:45 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:33:45 AM
+Compilation started at 10/30/2023, 10:34:38 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:34:38 AM
+Compilation started at 10/30/2023, 10:36:01 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:36:01 AM
+Compilation started at 10/30/2023, 10:36:28 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:36:29 AM
+Compilation started at 10/30/2023, 10:36:39 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:36:39 AM
+Compilation started at 10/30/2023, 10:37:01 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:37:01 AM
+Compilation started at 10/30/2023, 10:37:09 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/30/2023, 10:37:10 AM
+Compilation started at 10/31/2023, 11:25:25 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/31/2023, 11:25:26 AM
+Compilation started at 10/31/2023, 11:26:41 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:16:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ input_side()
+ ^~~~~~~~~~
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:23:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ check_scalene(int a, int b, int c)
+ ^~~~~~~~~~~~~
+Compilation finished at 10/31/2023, 11:26:42 AM
+Compilation started at 10/31/2023, 11:27:18 AM
+Compilation finished at 10/31/2023, 11:27:18 AM
+Compilation started at 10/31/2023, 11:29:02 AM
+Compilation finished at 10/31/2023, 11:29:03 AM
+Compilation started at 10/31/2023, 11:43:34 AM
+Compilation finished at 10/31/2023, 11:43:34 AM
+Compilation started at 10/31/2023, 11:44:57 AM
+Compilation finished at 10/31/2023, 11:44:57 AM
+Compilation started at 10/31/2023, 11:49:08 AM
+Compilation finished at 10/31/2023, 11:49:08 AM
+Compilation started at 10/31/2023, 11:53:24 AM
+Compilation finished at 10/31/2023, 11:53:24 AM
+Compilation started at 11/2/2023, 4:07:32 PM
+Compilation finished at 11/2/2023, 4:07:32 PM
+Compilation started at 11/2/2023, 4:08:04 PM
+Compilation finished at 11/2/2023, 4:08:04 PM
+Compilation started at 11/5/2023, 11:34:23 AM
+Compilation finished at 11/5/2023, 11:34:23 AM
+Compilation started at 11/7/2023, 10:59:43 AM
+Compilation finished at 11/7/2023, 10:59:44 AM
+Compilation started at 11/7/2023, 11:08:59 AM
+Compilation finished at 11/7/2023, 11:09:00 AM
+Compilation started at 11/7/2023, 11:14:55 AM
+Compilation finished at 11/7/2023, 11:14:56 AM
+Compilation started at 11/7/2023, 11:15:13 AM
+Compilation finished at 11/7/2023, 11:15:14 AM
+Compilation started at 11/7/2023, 11:16:08 AM
+Compilation finished at 11/7/2023, 11:16:08 AM
+Compilation started at 11/7/2023, 11:16:35 AM
+Compilation finished at 11/7/2023, 11:16:35 AM
+Compilation started at 11/7/2023, 11:16:54 AM
+Compilation finished at 11/7/2023, 11:16:54 AM
+Compilation started at 11/7/2023, 11:25:55 AM
+Compilation finished at 11/7/2023, 11:25:55 AM
+Compilation started at 11/7/2023, 11:26:25 AM
+Compilation finished at 11/7/2023, 11:26:26 AM
+Compilation started at 11/7/2023, 11:26:40 AM
+Compilation finished at 11/7/2023, 11:26:40 AM
+Compilation started at 11/7/2023, 11:27:04 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c: In function 'output':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem02.c:33:20: error: expected expression before ')' token
+    if(isscalene==1>)
+                    ^
+Compilation finished at 11/7/2023, 11:27:04 AM
+Compilation started at 11/7/2023, 11:27:12 AM
+Compilation finished at 11/7/2023, 11:27:12 AM
+Compilation started at 11/7/2023, 11:27:23 AM
+Compilation finished at 11/7/2023, 11:27:23 AM
+Compilation started at 11/7/2023, 11:33:07 AM
+Compilation finished at 11/7/2023, 11:33:08 AM
+Compilation started at 11/7/2023, 11:33:17 AM
+Compilation finished at 11/7/2023, 11:33:17 AM
+Compilation started at 11/16/2023, 11:15:21 AM
+Compilation finished at 11/16/2023, 11:15:21 AM

@@ -47,3 +47,21 @@ c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-ass
 c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem01.c:4:6: note: expected 'float *' but argument is of type 'float **'
  void output(float *base, float *height, float *area);
       ^~~~~~
+Compilation started at 10/30/2023, 10:31:01 AM
+Compilation finished at 10/30/2023, 10:31:02 AM
+Compilation started at 10/31/2023, 11:27:59 AM
+Compilation finished at 10/31/2023, 11:28:00 AM
+Compilation started at 11/2/2023, 4:07:15 PM
+Compilation finished at 11/2/2023, 4:07:16 PM
+Compilation started at 11/5/2023, 11:33:58 AM
+Compilation finished at 11/5/2023, 11:33:58 AM
+Compilation started at 11/7/2023, 11:06:49 AM
+Compilation finished at 11/7/2023, 11:06:49 AM
+Compilation started at 11/7/2023, 11:36:37 AM
+Compilation finished at 11/7/2023, 11:36:37 AM
+Compilation started at 11/16/2023, 11:14:34 AM
+Compilation finished at 11/16/2023, 11:14:34 AM
+Compilation started at 11/16/2023, 11:14:56 AM
+Compilation finished at 11/16/2023, 11:14:57 AM
+Compilation started at 11/16/2023, 11:15:47 AM
+Compilation finished at 11/16/2023, 11:15:47 AM

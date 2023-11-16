@@ -87,7 +87,7 @@ void output(int sum);
 
 ***Output***
 ```
-2o
+20
 ```
 
 ---

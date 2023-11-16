@@ -2,6 +2,8 @@
 #include <stdio.h>
 int main()
 {
-    printf("Prajan K");
+    int a;
+    printf("Enter Your Name:\n");
+    scanf("%d",a);
     return 0;
 }
