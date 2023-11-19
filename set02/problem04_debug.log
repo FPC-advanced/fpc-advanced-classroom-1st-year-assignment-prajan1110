@@ -1,0 +1,33 @@
++cd "c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02"
+"c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02": Invalid argument.
++gcc -g "c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem04.c" -o "c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem04.exe" 2>&1
+Undefined command: "gcc".  Try "help".
++"c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem04.exe"
+Undefined command: "".  Try "help".
++q
++cd "c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02"
+"c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02": Invalid argument.
++gdb ./problem01
+Undefined command: "gdb".  Try "help".
++c
+The program is not being run.
++set logging file problem01_debug.log
++set logging enabled on
+Undefined set logging command: "enabled on".  Try "help set logging".
++set logging on
+Already logging to problem04_debug.log.
++set trace-commands on
++cd "c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02"
+"c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02": Invalid argument.
++gdb ./problem02
+Undefined command: "gdb".  Try "help".
++c
+The program is not being run.
++set logging file problem02_debug.log
++set logging enabled on
+Undefined set logging command: "enabled on".  Try "help set logging".
++set logging on
+Already logging to problem04_debug.log.
++set trace-commands on
++q
++q

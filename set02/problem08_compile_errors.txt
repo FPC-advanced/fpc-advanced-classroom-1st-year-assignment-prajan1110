@@ -1,0 +1,27 @@
+Compilation started at 11/19/2023, 10:06:29 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:25:12: warning: passing argument 1 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+  find_area(&t);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:13:6: note: expected 'Triangle * {aka struct _triangle *}' but argument is of type 'Triangle (*)[(sizetype)(n)]'
+ void find_area(Triangle *t);
+      ^~~~~~~~~
+Compilation finished at 11/19/2023, 10:06:30 AM
+Compilation started at 11/19/2023, 10:13:49 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:25:12: warning: passing argument 1 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+  find_area(&t);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:13:6: note: expected 'Triangle * {aka struct _triangle *}' but argument is of type 'Triangle (*)[(sizetype)(n)]'
+ void find_area(Triangle *t);
+      ^~~~~~~~~
+Compilation finished at 11/19/2023, 10:13:49 AM
+Compilation started at 11/19/2023, 10:20:45 AM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c: In function 'main':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:25:12: warning: passing argument 1 of 'find_area' from incompatible pointer type [-Wincompatible-pointer-types]
+  find_area(&t);
+            ^
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem08.c:13:6: note: expected 'Triangle * {aka struct _triangle *}' but argument is of type 'Triangle (*)[(sizetype)(n)]'
+ void find_area(Triangle *t);
+      ^~~~~~~~~
+Compilation finished at 11/19/2023, 10:20:45 AM

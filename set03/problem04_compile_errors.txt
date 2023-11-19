@@ -1,0 +1,10 @@
+Compilation started at 11/19/2023, 11:56:16 AM
+Compilation finished at 11/19/2023, 11:56:17 AM
+Compilation started at 11/19/2023, 11:56:43 AM
+Compilation finished at 11/19/2023, 11:56:44 AM
+Compilation started at 11/19/2023, 11:56:52 AM
+Compilation finished at 11/19/2023, 11:56:53 AM
+Compilation started at 11/19/2023, 11:57:15 AM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set03\problem04.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 11/19/2023, 11:57:15 AM

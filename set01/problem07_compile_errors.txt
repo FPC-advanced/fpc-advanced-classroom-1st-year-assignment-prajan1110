@@ -4,3 +4,10 @@ Compilation started at 11/5/2023, 11:31:01 AM
 Compilation finished at 11/5/2023, 11:31:01 AM
 Compilation started at 11/16/2023, 3:48:32 PM
 Compilation finished at 11/16/2023, 3:48:33 PM
+Compilation started at 11/17/2023, 3:14:04 PM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set01\problem07.c:34:1: error: expected identifier or '(' before '-' token
+ -
+ ^
+Compilation finished at 11/17/2023, 3:14:04 PM
+Compilation started at 11/17/2023, 3:14:19 PM
+Compilation finished at 11/17/2023, 3:14:19 PM

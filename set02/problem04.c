@@ -9,8 +9,8 @@ void output(int sum);
 int main()
 {
     int n,sum;
-    int a[n];
     n=input_array_size();
+    int a[n];
     input_array(n,a);
     is_composite(n);
     sum=sum_composite_numbers(n,a);
@@ -37,13 +37,13 @@ void input_array(int n, int a[n])
 int is_composite(int n)
 {
    int i ;
-   if (n<=1)
+   if (n <= 1)
    {
     return 0;
    }
-   for(i=2;i<=n/2;i++)
+   for(i = 2;i <= n/2; i++)
    {
-    if (n%i==0)
+    if (n % i== 0)
     {
         return 1;
     }
@@ -57,12 +57,12 @@ int sum_composite_numbers(int n, int a[n])
     {
         if(is_composite(a[i]))
         {
-            sum=sum+a[i];
+            sum +=a[i];
         }
     }
     return sum;
 }
 void output(int sum)
 {
-    printf("The sum of the composite numbers are:\n",sum);
+    printf("The sum of the composite numbers are: %d\n",sum);
 }

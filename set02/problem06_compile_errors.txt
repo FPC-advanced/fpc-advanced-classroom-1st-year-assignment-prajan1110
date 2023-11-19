@@ -1,0 +1,14 @@
+Compilation started at 11/18/2023, 5:29:06 PM
+Compilation finished at 11/18/2023, 5:29:07 PM
+Compilation started at 11/18/2023, 5:29:58 PM
+Compilation finished at 11/18/2023, 5:29:58 PM
+Compilation started at 11/18/2023, 5:31:11 PM
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem06.c: In function 'str_reverse':
+c:\Users\kpraj\github-classroom\FPC-advanced\fpc-advanced-classroom-1st-year-assignment-prajan1110\set02\problem06.c:24:8: warning: assignment makes integer from pointer without a cast [-Wint-conversion]
+     rev=strrev(str);
+        ^
+Compilation finished at 11/18/2023, 5:31:11 PM
+Compilation started at 11/18/2023, 5:31:44 PM
+Compilation finished at 11/18/2023, 5:31:45 PM
+Compilation started at 11/18/2023, 5:52:19 PM
+Compilation finished at 11/18/2023, 5:52:19 PM
